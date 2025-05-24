@@ -7,3 +7,5 @@ status = (
     "Niño"
 )
 print(status)  # Output: "Mayor"
+
+print("Este resultado no es correcto")
